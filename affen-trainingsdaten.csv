@@ -1,0 +1,28 @@
+mD#Nummer,D#Auge links,D#Auge rechts,D#Mund,D#Accessoire,cD#Beschriftung
+1,offen,offen,Zahn,keins,beißt
+2,offen,zu,Zahn,keins,beißt
+4,zu,zu,Zahn,keins,beißt nicht
+5,offen,offen,Grinsen,keins,beißt
+7,x,x,Grinsen,keins,beißt nicht
+9,offen,offen,grimmig,keins,beißt
+10,offen,zu,grimmig,keins,beißt
+12,zu,zu,grimmig,keins,beißt nicht
+14,offen,zu,weit geöffnet,keins,beißt
+15,x,x,weit geöffnet,keins,beißt
+16,zu,zu,weit geöffnet,keins,beißt
+17,offen,offen,Zunge,keins,beißt
+19,x,x,Zunge,keins,beißt nicht
+22,offen,zu,Zahn,Brille,beißt nicht
+23,x,x,Zahn,Pflaster links,beißt nicht
+24,zu,zu,Zahn,keins,beißt nicht
+25,offen,offen,Grinsen,Brille,beißt nicht
+28,offen,offen,Grinsen,keins,beißt
+30,offen,zu,grimmig,Haarschleife,beißt nicht
+32,zu,zu,grimmig,Brille,beißt nicht
+33,offen,offen,weit geöffnet,Brille,beißt
+35,x,x,weit geöffnet,keins,beißt
+36,zu,zu,weit geöffnet,Haarschleife,beißt
+37,offen,offen,Zunge,Augenbinde,beißt nicht
+38,offen,zu,Zunge,Brille,beißt nicht
+39,x,x,Zunge,Pflaster links,beißt nicht
+40,zu,zu,Zunge,keins,beißt nicht
